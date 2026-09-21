@@ -390,3 +390,5 @@ const ENTRIES = {
   }
 
 };
+
+// TODO: add an 'og-image,jpg' for thumbnail 
