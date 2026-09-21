@@ -62,11 +62,11 @@ const ENTRIES = {
     folio: "\u2014 01 \u2014",
     body: [
       { type: "image", caption: "Portrait photo", src: "assets/images/about-portrait.jpg" },
-      { type: "paragraph", text: "Hello! My name is Ava. Thanks for taking the time to visit my page!" },
-      { type: "paragraph", text: "I was born and raised in Seattle, Washington (the most beautiful place on Earth). \
+      { type: "paragraph", text: "Hello! My name is Ava. Thanks for visiting my page!" },
+      { type: "paragraph", text: "I was born and raised in Seattle, Washington (the most beautiful place on Earth, if you ask me). \
         I'm currently in my last year of college at Cal Poly - San Luis Obispo, where I'm double majoring in Computer Science and Geography. \
-        People often remark that my two majors seem very different, and in some ways, they are. However, throughout my college experience, I'm \
-        continually reminded of how my knowledge of one discipline deepens my understanding of another and gives me unique angles at which to view problems. \
+        People often remark that my two majors seem very different, and in some ways, they are. However, throughout my college experience, I've \
+        been continually reminded of how my knowledge of one discipline deepens my understanding of another, and gives me unique angles at which to view problems. \
         I am endlessly grateful I've been able to study two topics which I'm so interested in, and have had opportunities to apply my knowledge of both \
         to my research and personal projects." },
       { type: "paragraph", text: "I define myself by my curiosity. I believe in learning for the sake of learning. I aspire to be in roles which let me \
@@ -244,7 +244,7 @@ const ENTRIES = {
     title: "Projects",
     folio: "\u2014 05 \u2014",
     intro: [
-      { type: "paragraph", text: "A few things I've built, from class projects to things made just out of curiosity." }
+      { type: "paragraph", text: "A hodgepodge of class projects, posters, apps, and more!" }
     ],
     entries: [
       {
@@ -316,8 +316,10 @@ const ENTRIES = {
     body: [
       // { type: "paragraph", text: "A short line about how you like to work, or what you'd want a hiring manager to know at a glance." },
       { type: "tags", label: "Research & methods", items: ["Placeholder", "Placeholder", "Placeholder"] },
-      { type: "tags", label: "Technical", items: ["Placeholder", "Placeholder", "Placeholder", "Placeholder"] },
-      { type: "tags", label: "Languages", items: ["Placeholder", "Placeholder"] }
+      { type: "tags", label: "Technical", items: ["ArcPro", "QGIS", "GDAL", "Git", "AWS", "Unix Systems"] },
+      { type: "tags", label: "Concepts", items: ["placeholder"] },
+      { type: "tags", label: "Languages", items: ["Python", "C", "TypeScript", "JavaScript", "SQL"] },
+      { type: "tags", label: "Frameworks", items: ["React", "Expres", "Node"] }
     ]
   },
 
