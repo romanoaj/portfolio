@@ -1,7 +1,8 @@
 /**
  * main.js
  * -----------------------------------------------------------------------
- * Handles interactivity only: no copy lives here.
+ * 
+ * andles interactivity only: no copy lives here.
  *
  * Two layers of interaction:
  *   1) Each row in the "Contents" index is a dropdown — clicking it

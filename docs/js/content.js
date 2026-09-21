@@ -45,7 +45,7 @@
 
 const SITE_INFO = {
   name: "Ava Romano",
-  role: "Student \u00b7 Researcher \u00b7 Human",
+  role: "Student \u00b7 Researcher \u00b7 Map Enthusiast",
   email: "ajromano@calpoly.edu",
   linkedin: "https://www.linkedin.com/in/ava-romano-593b66241/",
   github: "https://github.com/romanoaj",
@@ -357,20 +357,24 @@ const ENTRIES = {
     body: [
       { type: "image", caption: "Picture of my band, The Plums", src: "assets/images/plums-photo.jpg" },
       { type: "list", items: [
-        "Me playing with my band, The Plums! We play garage and alternative rock. \
-        Inspirations include the Velvet Underground, Elliott Smith, and Bob Dylan!"
-      ]},
-      { type: "image", caption: "Picture of my band, Enamor", src: "assets/images/enamor.jpg" },
-      { type: "list", items: [
-        "Me playing with my other band, Enamor! We play more hardcore-punk and emo."
+        "Music is one of my biggest passions, and has been my whole life. I play bass, guitar, and sing :) In college, I've played bass \
+        in two bands so far, and it's been one of the most rewardind and memorable experiences of my life! Above is me playing with \
+        my first band, The Plums! We play garage and alternative rock -- both covers and originals. Our musical inspirations \
+        include the Velvet Underground, Elliott Smith, and Bob Dylan!"
       ]},
       { type: "image", caption: "Picture of me working on a short film I was in", src: "assets/images/film-photo.jpg" },
       { type: "list", items: [
-        "A picture of me working on a short film I was in spring 2025, 'You Have the Sun'"
+        "I love all kinds of performing arts, including films! I've been in two short films in college. Above is a \
+         picture of me during filming in Spring 2025. The film pictured is called 'You Have the Sun', and it premiered in \
+         a student film festival at an indepdent theater in downtown San Luis Obispo!"
       ]},
       { type: "image", caption: "Picture of my archaeological field school", src: "assets/images/archaeology-photo.jpg" },
       { type: "list", items: [
-        "My archaeological field school in Mukilteo, Washington."
+        "Prior to discovering how much I love geospatial analysis, I was very interested in pursuing a career in archaeology. \
+         In fact, my second degree is technically 'Anthropology and Geography'. In college, I've taken a host courses in anthropological \
+         theory and archaeological methods. In the summer of 2025, I participated in an archaeological field school not far from my home \
+         in Seattle. It was a fascinating and exciting experience, and I'm so glad I was able to try out hands-on archaeological work \
+         before diving headfirst into the geospatial-computer science world!"
       ]}
     ]
   },
