@@ -355,21 +355,22 @@ const ENTRIES = {
     title: "Hobbies and Interests",
     folio: "\u2014 08 \u2014",
     body: [
-      { type: "image", caption: "pic of the plums", src: "assets/images/hobbies-photo.jpg" },
+      { type: "image", caption: "Picture of my band, The Plums", src: "assets/images/plums-photo.jpg" },
       { type: "list", items: [
-        "the plums"
+        "Me playing with my band, The Plums! We play garage and alternative rock. \
+        Inspirations include the Velvet Underground, Elliott Smith, and Bob Dylan!"
       ]},
-      { type: "image", caption: "pic of enamor", src: "assets/images/hobbies-photo.jpg" },
+      { type: "image", caption: "Picture of my band, Enamor", src: "assets/images/enamor.jpg" },
       { type: "list", items: [
-        "enamor"
+        "Me playing with my other band, Enamor! We play more hardcore-punk and emo."
       ]},
-      { type: "image", caption: "me outside", src: "assets/images/hobbies-photo.jpg" },
+      { type: "image", caption: "Picture of me working on a short film I was in", src: "assets/images/film-photo.jpg" },
       { type: "list", items: [
-        "hiking and stuff"
+        "A picture of me working on a short film I was in spring 2025, 'You Have the Sun'"
       ]},
-      { type: "image", caption: "something relevant idk", src: "assets/images/hobbies-photo.jpg" },
+      { type: "image", caption: "Picture of my archaeological field school", src: "assets/images/archaeology-photo.jpg" },
       { type: "list", items: [
-        "being crafty"
+        "My archaeological field school in Mukilteo, Washington."
       ]}
     ]
   },
