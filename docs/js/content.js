@@ -45,7 +45,7 @@
 
 const SITE_INFO = {
   name: "Ava Romano",
-  role: "Student \u00b7 Researcher \u00b7 Map Enthusiast",
+  role: "Student \u00b7 Researcher \u00b7 Human",
   email: "ajromano@calpoly.edu",
   linkedin: "https://www.linkedin.com/in/ava-romano-593b66241/",
   github: "https://github.com/romanoaj",
