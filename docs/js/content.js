@@ -315,11 +315,12 @@ const ENTRIES = {
     folio: "\u2014 06 \u2014",
     body: [
       // { type: "paragraph", text: "A short line about how you like to work, or what you'd want a hiring manager to know at a glance." },
-      { type: "tags", label: "Research & methods", items: ["Placeholder", "Placeholder", "Placeholder"] },
-      { type: "tags", label: "Technical", items: ["ArcPro", "QGIS", "GDAL", "Git", "AWS", "Unix Systems"] },
-      { type: "tags", label: "Concepts", items: ["placeholder"] },
-      { type: "tags", label: "Languages", items: ["Python", "C", "TypeScript", "JavaScript", "SQL"] },
-      { type: "tags", label: "Frameworks", items: ["React", "Expres", "Node"] }
+      // { type: "tags", label: "Research & methods", items: ["Placeholder", "Placeholder", "Placeholder"] },
+      { type: "tags", label: "Tools", items: ["ArcPro", "QGIS", "GDAL", "Git", "Conda", "AWS", "Microsoft Office Suite", "MongoDB", "UNIX Shell Scripting"] },
+      { type: "tags", label: "Concepts", items: ["Software Development Lifecycle (SDLC)", "Agile Methodologies", "CI/CD Pipelines", "Cloud Computing",
+        "MVC Architecture", "REST API", "HTTP/IP Protocol"]},
+      { type: "tags", label: "Languages", items: ["Python", "C", "TypeScript", "JavaScript", "HTML/CSS", "SQL", "Java"] },
+      { type: "tags", label: "Frameworks", items: ["React", "Express", "Node"] }
     ]
   },
 
